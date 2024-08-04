@@ -10,7 +10,7 @@ This is a simple QR code component that can be used to improve your front-end sk
 
 You can view the origin design for the QR code card [here](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
-my design screen: ![Design Screenshot](/images/qr-design-screenshot.png)
+My design screen: [Design Screenshot](/images/qr-design-screenshot.png)
 ## Usage
 
 To use this project, simply clone the repository and open the `index.html` file in your browser.
